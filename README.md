@@ -115,15 +115,15 @@
 <h3 id="Q3d">Question 3 (d)</h3>
 <section class="answer">
 	
-	<p>name = "David Cho";</p>
-	<p>uname = name.toUpperCase(); // (i) What? Convert string to upper case</p>
-	<p>console.log(uname);</p>
-	<p>lname = name.toLowerCase(); // (ii) What? Convert string (name) to lower case</p>
-	<p>console.log(lname);</p>
-	<p>// Explain what the following two lines do and show a screenshot</p>
-	<p>// of the results. Next 2 lines check, is name in upper case contains A, and is name in lower case contains i</p>
-	<p>console.log("Your name includes an 'a': " + uname.includes('A'));</p>
-	<p>console.log("Your name includes an 'i': " + lname.includes('i'));</p>
+	name = "David Cho";
+	uname = name.toUpperCase(); // (i) What? Convert string to upper case
+	console.log(uname);
+	lname = name.toLowerCase(); // (ii) What? Convert string (name) to lower case
+	console.log(lname);
+	// Explain what the following two lines do and show a screenshot
+	// of the results. Next 2 lines check, is name in upper case contains A, and is name in lower case contains i
+	console.log("Your name includes an 'a': " + uname.includes('A'));
+	console.log("Your name includes an 'i': " + lname.includes('i'));
 	
 	<p>![3d](img/pic_q3d.png)</p>
 </section>
