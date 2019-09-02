@@ -1,5 +1,6 @@
 # Homework #2 Solution
 **Student Name**: David Cho
+
 **NetID**: bt2797
 
 <ul id="toc">
